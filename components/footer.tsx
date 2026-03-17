@@ -11,7 +11,7 @@ export function Footer() {
               Rock Fit
             </span>
             <p className="mt-3 text-sm text-muted-foreground">
-              Força, disciplina e evolucao todos os dias.
+              Força, disciplina e evolução todos os dias.
             </p>
           </div>
 
@@ -42,7 +42,7 @@ export function Footer() {
                   href="#horarios"
                   className="text-sm text-muted-foreground transition-colors hover:text-primary"
                 >
-                  Horarios
+                  Horários
                 </a>
               </li>
             </ul>
@@ -60,7 +60,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-primary" />
-                Rua das Andorinhas, 8 - Goianesia, PA
+                Rua das Andorinhas, 8 - Goianésia, PA
               </li>
             </ul>
           </div>

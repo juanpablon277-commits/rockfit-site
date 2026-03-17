@@ -33,7 +33,7 @@ export function LocationSection() {
           }`}
         >
           <h2 className="font-serif text-3xl font-bold uppercase tracking-wider text-foreground sm:text-4xl">
-            Nossa <span className="text-primary">Localizacao</span>
+            Nossa <span className="text-primary">Localização</span>
           </h2>
         </div>
 
@@ -52,7 +52,7 @@ export function LocationSection() {
             <p className="mt-2 text-lg text-muted-foreground">
               Rua das Andorinhas, 8
             </p>
-            <p className="text-lg text-muted-foreground">Goianesia - PA</p>
+            <p className="text-lg text-muted-foreground">Goianésia - PA</p>
             <a
               href="https://maps.google.com/?q=Rua+das+Andorinhas+8+Goianesia+PA"
               target="_blank"

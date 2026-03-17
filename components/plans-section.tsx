@@ -15,7 +15,7 @@ const plans = [
     ],
     features: [
       "Acesso a area de musculação",
-      "Avaliacao fisica inicial",
+      "Avaliação física inicial",
       "Acesso ao app de treinos",
     ],
   },
@@ -30,7 +30,7 @@ const plans = [
     ],
     features: [
       "Acesso a area de musculação",
-      "Avaliacao fisica mensal",
+      "Avaliação física mensal",
       "Acesso ao app de treinos",
       "Aulas coletivas",
     ],
@@ -45,12 +45,29 @@ const plans = [
     ],
     features: [
       "Acesso ilimitado",
-      "Avaliacao fisica quinzenal",
+      "Avaliação física quinzenal",
       "Acesso ao app de treinos",
       "Todas as aulas coletivas",
       "Acompanhamento nutricional",
     ],
   },
+
+  {
+  name: "Família",
+  frequency: "Para toda a família",
+  prices: [
+    { period: "Mensal", value: "Consulte" },
+    { period: "Trimestral", value: "Consulte" },
+    { period: "Semestral", value: "Consulte" },
+  ],
+  features: [
+    "Plano válido para todos os membros da família",
+    "Desconto especial para grupos familiares",
+    "Acesso à área de musculação",
+    "Acesso ao app de treinos",
+  ],
+}
+  
 ]
 
 export function PlansSection() {

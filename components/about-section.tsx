@@ -7,7 +7,7 @@ const features = [
   {
     icon: Dumbbell,
     title: "Equipamentos Modernos",
-    description: "Aparelhos de ultima geracao para treinos eficientes",
+    description: "Aparelhos de ultima geração para treinos eficientes",
   },
   {
     icon: Users,
@@ -16,8 +16,8 @@ const features = [
   },
   {
     icon: Clock,
-    title: "Horarios Flexiveis",
-    description: "Funcionamento amplo para sua conveniencia",
+    title: "Horários Flexiveis",
+    description: "Funcionamento amplo para sua conveniência",
   },
   {
     icon: Trophy,
@@ -63,8 +63,8 @@ export function AboutSection() {
             Sobre a <span className="text-primary">Academia</span>
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground">
-            Na Rock Fit Academia voce encontra estrutura moderna, ambiente
-            motivador e treinos focados em resultados reais. Aqui, cada dia e
+            Na Rock Fit Academia você encontra estrutura moderna, ambiente
+            motivador e treinos focados em resultados reais. Aqui, cada dia é
             uma oportunidade de superar seus limites.
           </p>
         </div>

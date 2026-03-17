@@ -35,11 +35,11 @@ export function CtaSection() {
           }`}
         >
           <h2 className="font-serif text-3xl font-bold uppercase leading-tight tracking-wider text-foreground sm:text-4xl md:text-5xl">
-            Seu resultado comeca com o{" "}
+            Seu resultado começa com o{" "}
             <span className="text-primary">primeiro passo</span>
           </h2>
           <p className="mt-6 text-lg text-muted-foreground">
-            Nao deixe para amanha o treino que pode mudar sua vida hoje
+            Não deixe para amanhã o treino que pode mudar sua vida hoje
           </p>
 
           <Button

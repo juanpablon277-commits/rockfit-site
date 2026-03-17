@@ -39,7 +39,7 @@ export function HoursSection() {
           }`}
         >
           <h2 className="font-serif text-3xl font-bold uppercase tracking-wider text-foreground sm:text-4xl">
-            Horario de <span className="text-primary">Funcionamento</span>
+            Horário de <span className="text-primary">Funcionamento</span>
           </h2>
         </div>
 
