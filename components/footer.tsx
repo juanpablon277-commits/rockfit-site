@@ -11,7 +11,7 @@ export function Footer() {
               Rock Fit
             </span>
             <p className="mt-3 text-sm text-muted-foreground">
-              Forca, disciplina e evolucao todos os dias.
+              Força, disciplina e evolucao todos os dias.
             </p>
           </div>
 
@@ -86,7 +86,7 @@ export function Footer() {
 
         <div className="mt-10 border-t border-border pt-6 text-center">
           <p className="text-xs text-muted-foreground">
-            {"2024 Rock Fit Academia. Todos os direitos reservados."}
+            {"2026 Rock Fit Academia. Todos os direitos reservados."}
           </p>
         </div>
       </div>

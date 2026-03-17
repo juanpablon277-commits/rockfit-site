@@ -50,7 +50,7 @@ export function HeroSection() {
           }`}
         >
           <p className="text-lg text-foreground/80 sm:text-xl md:text-2xl">
-            Forca, disciplina e evolucao todos os dias.
+            Força, disciplina e evolucao todos os dias.
           </p>
         </div>
 
