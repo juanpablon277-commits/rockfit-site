@@ -47,7 +47,7 @@ export function LocationSection() {
               <MapPin className="h-8 w-8 text-primary" />
             </div>
             <h3 className="mt-6 font-serif text-xl font-semibold uppercase tracking-wide text-foreground">
-              Endereco
+              Endereço
             </h3>
             <p className="mt-2 text-lg text-muted-foreground">
               Rua das Andorinhas, 8
